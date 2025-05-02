@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sunflower", "sunflower\sunflower.csproj", "{FA06570F-B8FC-44C7-AEF6-9C5BA2A146CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA06570F-B8FC-44C7-AEF6-9C5BA2A146CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA06570F-B8FC-44C7-AEF6-9C5BA2A146CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA06570F-B8FC-44C7-AEF6-9C5BA2A146CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA06570F-B8FC-44C7-AEF6-9C5BA2A146CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB918267-6F81-4CD8-B9ED-F268836FBA35}
+	EndGlobalSection
+EndGlobal

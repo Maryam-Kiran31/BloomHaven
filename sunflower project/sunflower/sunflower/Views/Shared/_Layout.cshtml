@@ -1,0 +1,146 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BloomHaven - Fall Collection</title>
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/style.css">
+    <script src="~/lib/jquery/dist/jquery.min.js"></script> <!-- Ensure this is included -->
+     
+</head>
+<body>
+    @* Conditionally render the header *@
+    @if (!ViewData.ContainsKey("HideHeaderFooter") || !(bool)ViewData["HideHeaderFooter"])
+    {
+
+        <!-- Navbar Section (Separated from Hero Section) --> 
+        <nav class="navbar navbar-expand-md navbar-light bg-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand text-white" href="#">BloomHaven</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="/Home/Index">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="/About/Index">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-white" href="/Contact/Index">Contact</a>
+                        </li>
+
+                        <li class="nav-item">
+                            <div class="container-fluid">
+                                <div class="d-flex">
+                                    <input class="form-control me-4" id="txtData" type="text" placeholder="Search" name="Name" aria-label="Search">
+                                    <button class="btn btn-outline-success" id="productSearch" type="submit">Search</button>
+                                </div>
+
+                                 
+                            </div>
+                        </li>
+                    </ul>
+                    <!-- Razor View (HTML) -->
+                    @if (User.Identity.IsAuthenticated)
+                    {
+                        <div class="d-flex">
+                            <span class="text-decoration-none btn btn-outline-light mx-2" style="font-size: 20px; margin-left: 15px;">
+                                @User.Identity.Name
+                            </span>
+                            <a href="/Identity/Account/Logout" class="btn btn-light" style="font-size: 20px; margin-left: 30px;">
+                                Logout
+                            </a>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="d-flex">
+                            <a href="/Identity/Account/Login" class="btn btn-outline-light mx-2" style="font-size: 20px; margin-left: 30px;">
+                                Log In
+                            </a>
+                            <a href="/Identity/Account/Register" class="btn btn-light" style="font-size: 20px; margin-left: 30px;">
+                                Signup
+                            </a>
+                        </div>
+                    }
+
+                </div>
+            </div>
+        </nav>
+    }
+    <div class="container">
+        <main role="main">
+            @RenderBody()
+        </main>
+    </div>
+
+    @* Conditionally render the footer *@
+    @if (!ViewData.ContainsKey("HideHeaderFooter") || !(bool)ViewData["HideHeaderFooter"])
+    {
+        <!--Footer-->
+        <footer class="footer text-dark" style="background-color:lightpink">
+            <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-12">
+                    <br><br>
+                    <h5>BlooMHaven</h5>
+                    <p>2325 Boulevard Circle<br>Gulberg<br>925-935-0800</p>
+                    <p>
+                        <strong>Store Hours:</strong><br>
+                        Mon: 9:00AM to 3:00PM<br>
+                        Tue-Fri: 9:00AM to 5:00PM<br>
+                        Sat: 9:00AM to 2:00PM
+                    </p>
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <br><br>
+                    <h5>Resources</h5>
+                    <ul class="list-unstyled">
+                        <li><a href="#" class="text-dark">Contact Us</a></li>
+                        <li><a href="#" class="text-dark">Shopping Cart</a></li>
+                        <li><a href="#" class="text-dark">Customer Login</a></li>
+                        <li><a href="#" class="text-dark">Accessibility</a></li>
+                        <li><a href="#" class="text-dark">Products</a></li>
+                        <li><a href="#" class="text-dark">Customer Signup</a></li>
+                     
+                    </ul>
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <br><br>
+                    <h5>ABOUT BlooMHaven</h5>
+                    <ul>
+                        <li>
+                            Blossoms Florals is glad to give quality flowers and
+                            plants to our customers.
+                        </li>
+                        <li>Shop No. 235 Y Block Phase 3 DHA Lahore, Pakistan</li>
+                        <li>042- 37199888</li>
+                        <li>03222282221</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row mt-3">
+                <div class="col-md-12 text-center">
+                    <br><br>
+                    <p>We accept all major credit cards: Visa, Mastercard, AMEX, Discover.</p>
+                    <p class="mb-0">&copy; 2024 BlooMHaven. All rights reserved.</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+    }
+
+    <!-- Bootstrap JS -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

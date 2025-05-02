@@ -1,0 +1,43 @@
+﻿@using sunflower.Models
+@model List<Products>
+<div style="background-image: url('/uploadedFiles/b1.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    margin-top: 0px;
+    position: relative;">
+</div>
+<div class="container-fluid p-0">
+    <div class="row">
+        <div class="row d-flex justify-content-center align-item-center">
+            <h5 class="s1 col-12" style="margin-bottom: 30px; margin-top: 30px;">Featured Collection</h5>
+            <h2 class="s1 col-12">Happiness</h2>
+        </div>
+        @foreach (var p in Model)
+        {
+            <div class="col-12 col-md-3 col-lg-3 mb-4">
+                <div class="card dd">
+                    <img src="~/uploadedfiles/@p.PathOfImage" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">@p.Name<span class="ms-3">@p.Price</span></h5>
+                        <span>
+                            <form style="display:inline" action="/Product/updateproduct" method="post"> 
+                            <button  type="submit" class="btn me-5 btn-info" >
+                                Update
+                            </button>
+                            </form>
+                            <form style="display:inline" action="/Product/Deleteproduct" method="post"> 
+                                <button  type="submit" class="btn ms-3 btn-danger mx-auto" >
+                                   Delete
+                                </button>
+                            </form>
+                        </span>
+
+                        
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

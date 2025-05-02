@@ -1,0 +1,83 @@
+﻿@model Products
+
+<div class="container-fluid designs">
+    <main style="opacity: 0.8;">
+        <div class="py-5 text-center">
+            <h1 style="font-family: cursive;" class="fs-1 fw-bolder text-dark">Add Products</h1>
+        </div>
+        <div class="row text-light">
+            <div class="col-md-7 mx-auto">
+                <form id="productForm" class="bg-dark form-group" enctype="multipart">
+                    <div class="row g-3" style="font-family: cursive;">
+                        <div class="col-sm-6 mx-auto">
+                            <label for="Name" class="form-label">Name</label>
+                            <input type="text" class="form-control" name="Name" />
+                        </div>
+                    </div>
+                    <div class="row g-3" style="font-family: cursive;">
+                        <div class="col-sm-6 mx-auto">
+                            <label for="p3" class="form-label">Price</label>
+                            <input type="number" class="form-control" id="p0" name="Price" />
+                        </div>
+                    </div>
+                    <div class="row g-3" style="font-family: cursive;">
+                        <div class="col-sm-6 mx-auto">
+                            <label for="p2" class="form-label">Quantity</label>
+                            <input type="text" class="form-control" id="p0" name="Quantity" />
+                        </div>
+                    </div>
+                    <div class="row g-3" style="font-family: cursive;">
+                        <div class="col-sm-6 mx-auto">
+                            <label for="p1" class="form-label">Choose a Category</label>
+                            <select name="Category" class="form-control" id="p0">
+                                <option value="Bouquets">Bouquets</option>
+                                <option value="Jewelery">Jewelery</option>
+                                <option value="Roses">Roses</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="row g-3" style="font-family: cursive;">
+                        <div class="col-sm-6 mx-auto">
+                            <label asp-for="PathOfImage">Upload Image</label>
+                            <input asp-for="PathOfImage" id="postedFiles" class="form-control" type="file" name="PathOfImage" />
+                            <span asp-validation-for="PathOfImage" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <hr class="my-2 bg-light">
+                    <div class="py-2 d-flex justify-content-center">
+                        <button type="button" class="w-25 ms-5 btn" style="font-family: cursive; background-color: coral;" onclick="uploadFiles(event);">
+                            Submit
+                        </button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </main>
+</div>
+<script>
+    function uploadFiles(event) {
+        event.preventDefault();  // Prevent the default form submission
+
+        var form = document.getElementById('productForm');
+        var formData = new FormData(form);
+
+        // AJAX request
+        var xhr = new XMLHttpRequest();
+        xhr.open("POST", "/Product/Upload", true);  // Update with your route
+
+        // Define the action when the request is complete
+        xhr.onload = function () {
+            if (xhr.status === 200) {
+                // Success
+                alert('Product successfully uploaded!');
+                // Optionally, clear the form or update the page
+            } else {
+                // Error handling
+                alert('Failed to upload product!');
+            }
+        };
+
+        // Send the FormData object with the form inputs
+        xhr.send(formData);
+    }
+</script>

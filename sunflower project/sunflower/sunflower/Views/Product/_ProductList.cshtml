@@ -1,0 +1,15 @@
+﻿@model List<Products>
+
+@foreach (var p in Model)
+{
+    <div class="col-md-4">
+        <div class="card mb-2">
+            <img src="~/uploadedfiles/@p.PathOfImage" class="card-img-top" alt="@p.Name">
+            <div class="card-body">
+                <h5 class="card-title">@p.Name</h5>
+                <p class="card-text">A beautiful arrangement of fall colors that brings warmth to any space.</p>
+                <a href="#" class="btn btn-lg btn-light hero-btn" style="font-weight:800;font-size:20px;color:white;background-color:deeppink">Add to Cart</a>
+            </div>
+        </div>
+    </div>
+}

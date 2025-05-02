@@ -1,0 +1,50 @@
+﻿@model Category
+<style>
+    /* Style for form container */
+    .form-container {
+        max-width: 300px; /* Adjust as needed */
+        margin: 0 auto;
+    }
+
+        /* Style for form inputs */
+        .form-container input {
+            display: block;
+            margin-bottom: 10px;
+            width: 100%;
+            padding: 5px;
+            border: 1px solid #ccc;
+            border-radius: 3px;
+        }
+
+            /* Style for submit button */
+            .form-container input[type="submit"] {
+                background-color:hotpink;
+                color: #fff;
+                border: none;
+                padding: 10px;
+                border-radius: 3px;
+                cursor: pointer;
+            }
+
+        /* Style for labels */
+        .form-container label {
+            font-weight: bold;
+        }
+</style>
+
+<div class="form-container">
+    <h1>Add a Catagory Name</h1>
+    <form method="post" action="/Category/Add" enctype="multipart/form-data">
+        <label for="Name"> Name OF Category:</label>
+        <input type="text" name="Name" id="Name" />
+        <div class="row g-3" style="font-family: cursive;">
+            <div class="col-sm-6 mx-auto">
+                <label asp-for="PathOfImage">Upload Image</label>
+                <input asp-for="PathOfImage" id="postedFiles" class="form-control" type="file" name="PathOfImage" />
+                <span asp-validation-for="PathOfImage" class="text-danger"></span>
+            </div>
+        </div>
+        <input type="submit" value="Add Category" />
+    </form>
+</div>
+

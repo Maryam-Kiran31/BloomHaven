@@ -1,0 +1,37 @@
+﻿@using sunflower.Models
+@model List<Products>
+<div style="background-image: url('../uploadedFiles/d1.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 80vh;
+    margin-top: 0px;
+    position: relative;">
+</div>
+
+<div class="container-fluid p-0">
+    <div class="row">
+        <div class="row d-flex justify-content-center align-item-center">
+            <h5 class="s1 col-12" style="margin-bottom: 30px; margin-top: 30px;">Featured Collection</h5>
+            <h2 class="s1 col-12">Happiness</h2>
+        </div>
+        @foreach (var p in Model)
+        {
+            <div class="col-12 col-md-3 col-lg-3 mb-4">
+                <div class="card dd">
+                    <img src="~/uploadedfiles/@p.PathOfImage" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">@p.Name</h5>
+                        <form action="/AddToCart/Cart" method="post">
+                            <input type="hidden" name="Id" value="@p.Id" />
+                            <button type="submit" class="btn me-5" style="background-color:deeppink;">
+                                Add to cart
+                            </button>
+                        </form>
+                        <span class="ms-5">@p.Price</span>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>

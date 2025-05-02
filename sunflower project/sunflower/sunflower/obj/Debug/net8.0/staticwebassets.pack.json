@@ -1,0 +1,1345 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\sunflower.bundle.scp.css",
+      "PackagePath": "staticwebassets\\sunflower.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\about.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\b1.webp",
+      "PackagePath": "staticwebassets\\images\\b1.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\b2.webp",
+      "PackagePath": "staticwebassets\\images\\b2.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\b3.webp",
+      "PackagePath": "staticwebassets\\images\\b3.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\b4.webp",
+      "PackagePath": "staticwebassets\\images\\b4.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\b5.webp",
+      "PackagePath": "staticwebassets\\images\\b5.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\b6.webp",
+      "PackagePath": "staticwebassets\\images\\b6.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\bouqets.webp",
+      "PackagePath": "staticwebassets\\images\\bouqets.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\f1.webp",
+      "PackagePath": "staticwebassets\\images\\f1.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\f2.webp",
+      "PackagePath": "staticwebassets\\images\\f2.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\f3.webp",
+      "PackagePath": "staticwebassets\\images\\f3.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\f4.webp",
+      "PackagePath": "staticwebassets\\images\\f4.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\f5.webp",
+      "PackagePath": "staticwebassets\\images\\f5.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\j1.jpg",
+      "PackagePath": "staticwebassets\\images\\j1.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\j2.jpg",
+      "PackagePath": "staticwebassets\\images\\j2.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\j3.jpg",
+      "PackagePath": "staticwebassets\\images\\j3.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\j4.jpg",
+      "PackagePath": "staticwebassets\\images\\j4.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\j5.jpg",
+      "PackagePath": "staticwebassets\\images\\j5.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\j6.jpg",
+      "PackagePath": "staticwebassets\\images\\j6.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\jewelery.jpg",
+      "PackagePath": "staticwebassets\\images\\jewelery.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\prose.webp",
+      "PackagePath": "staticwebassets\\images\\prose.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\r1.jpg",
+      "PackagePath": "staticwebassets\\images\\r1.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\r2.jpg",
+      "PackagePath": "staticwebassets\\images\\r2.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\r3.jpg",
+      "PackagePath": "staticwebassets\\images\\r3.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\r4.jpg",
+      "PackagePath": "staticwebassets\\images\\r4.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\r5.jpg",
+      "PackagePath": "staticwebassets\\images\\r5.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\r6.jpg",
+      "PackagePath": "staticwebassets\\images\\r6.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\rose.jpg",
+      "PackagePath": "staticwebassets\\images\\rose.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\s1.webp",
+      "PackagePath": "staticwebassets\\images\\s1.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\s2.jpg",
+      "PackagePath": "staticwebassets\\images\\s2.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\s3.jpg",
+      "PackagePath": "staticwebassets\\images\\s3.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\s4.jpg",
+      "PackagePath": "staticwebassets\\images\\s4.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\s5.jpg",
+      "PackagePath": "staticwebassets\\images\\s5.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\service.jpg",
+      "PackagePath": "staticwebassets\\images\\service.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\sun2.jfif",
+      "PackagePath": "staticwebassets\\images\\sun2.jfif"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\withlove.webp",
+      "PackagePath": "staticwebassets\\images\\withlove.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\images\\wrose.webp",
+      "PackagePath": "staticwebassets\\images\\wrose.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\js\\ChatHub.js",
+      "PackagePath": "staticwebassets\\js\\ChatHub.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\jquery\\dist\\site1.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\site1.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\jquery\\dist\\site2.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\site2.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\README.md",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\README.md"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\AbortController.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\AbortController.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\AbortController.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\AbortController.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\AccessTokenHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\AccessTokenHttpClient.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\AccessTokenHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\AccessTokenHttpClient.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\DefaultHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\DefaultHttpClient.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\DefaultHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\DefaultHttpClient.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Errors.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Errors.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Errors.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Errors.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\FetchHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\FetchHttpClient.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\FetchHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\FetchHttpClient.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HandshakeProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HandshakeProtocol.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HandshakeProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HandshakeProtocol.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HeaderNames.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HeaderNames.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HeaderNames.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HeaderNames.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HttpClient.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HttpClient.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HttpConnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HttpConnection.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HttpConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HttpConnection.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HubConnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HubConnection.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HubConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HubConnection.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HubConnectionBuilder.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HubConnectionBuilder.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\HubConnectionBuilder.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\HubConnectionBuilder.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\IConnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\IConnection.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\IConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\IConnection.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\IHttpConnectionOptions.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\IHttpConnectionOptions.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\IHttpConnectionOptions.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\IHttpConnectionOptions.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\IHubProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\IHubProtocol.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\IHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\IHubProtocol.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ILogger.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ILogger.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ILogger.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ILogger.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\IRetryPolicy.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\IRetryPolicy.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\IRetryPolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\IRetryPolicy.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\IStatefulReconnectOptions.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\IStatefulReconnectOptions.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\IStatefulReconnectOptions.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\IStatefulReconnectOptions.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ITransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ITransport.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ITransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ITransport.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\JsonHubProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\JsonHubProtocol.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\JsonHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\JsonHubProtocol.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Loggers.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Loggers.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Loggers.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Loggers.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\LongPollingTransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\LongPollingTransport.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\LongPollingTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\LongPollingTransport.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\MessageBuffer.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\MessageBuffer.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\MessageBuffer.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\MessageBuffer.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Polyfills.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Polyfills.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Polyfills.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Polyfills.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ServerSentEventsTransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ServerSentEventsTransport.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\ServerSentEventsTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\ServerSentEventsTransport.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Stream.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Stream.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Stream.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Stream.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Subject.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Subject.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Subject.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Subject.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\TextMessageFormat.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\TextMessageFormat.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\TextMessageFormat.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\TextMessageFormat.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Utils.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Utils.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\Utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\Utils.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\WebSocketTransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\WebSocketTransport.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\WebSocketTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\WebSocketTransport.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\XhrHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\XhrHttpClient.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\XhrHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\XhrHttpClient.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\browser-index.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\browser-index.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\browser-index.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\index.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\index.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\cjs\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\cjs\\index.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\AbortController.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\AbortController.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\AbortController.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\AbortController.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\AbortController.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\AbortController.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\AccessTokenHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\AccessTokenHttpClient.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\AccessTokenHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\AccessTokenHttpClient.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\AccessTokenHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\AccessTokenHttpClient.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Errors.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Errors.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Errors.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Errors.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Errors.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Errors.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HeaderNames.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HeaderNames.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HeaderNames.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HeaderNames.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HeaderNames.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HeaderNames.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HttpClient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HttpClient.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HttpClient.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HttpClient.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HttpConnection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HttpConnection.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HttpConnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HttpConnection.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HttpConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HttpConnection.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HubConnection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HubConnection.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HubConnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HubConnection.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HubConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HubConnection.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IConnection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IConnection.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IConnection.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IConnection.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IConnection.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IConnection.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IHubProtocol.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IHubProtocol.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IHubProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IHubProtocol.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IHubProtocol.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ILogger.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ILogger.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ILogger.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ILogger.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ILogger.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ILogger.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IStatefulReconnectOptions.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IStatefulReconnectOptions.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IStatefulReconnectOptions.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IStatefulReconnectOptions.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\IStatefulReconnectOptions.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\IStatefulReconnectOptions.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ITransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ITransport.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ITransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ITransport.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ITransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ITransport.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Loggers.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Loggers.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Loggers.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Loggers.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Loggers.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Loggers.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\MessageBuffer.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\MessageBuffer.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\MessageBuffer.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\MessageBuffer.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\MessageBuffer.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\MessageBuffer.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Polyfills.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Polyfills.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Polyfills.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Polyfills.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Polyfills.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Polyfills.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Stream.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Stream.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Stream.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Stream.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Stream.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Stream.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Subject.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Subject.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Subject.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Subject.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Subject.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Subject.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Utils.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Utils.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Utils.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Utils.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\Utils.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\Utils.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\browser-index.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\index.d.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\index.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\index.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\esm\\index.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\esm\\index.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.min.js"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\webworker\\signalr.min.js.map"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\package.json",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\package.json"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\AbortController.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\AbortController.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\AccessTokenHttpClient.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\AccessTokenHttpClient.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\DefaultHttpClient.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\DefaultHttpClient.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\DefaultReconnectPolicy.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\DefaultReconnectPolicy.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\Errors.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\Errors.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\FetchHttpClient.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\FetchHttpClient.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\HandshakeProtocol.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\HandshakeProtocol.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\HeaderNames.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\HeaderNames.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\HttpClient.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\HttpClient.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\HttpConnection.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\HttpConnection.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\HubConnection.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\HubConnection.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\HubConnectionBuilder.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\HubConnectionBuilder.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\IConnection.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\IConnection.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\IHttpConnectionOptions.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\IHttpConnectionOptions.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\IHubProtocol.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\IHubProtocol.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\ILogger.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\ILogger.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\IRetryPolicy.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\IRetryPolicy.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\IStatefulReconnectOptions.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\IStatefulReconnectOptions.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\ITransport.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\ITransport.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\JsonHubProtocol.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\JsonHubProtocol.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\Loggers.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\Loggers.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\LongPollingTransport.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\LongPollingTransport.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\MessageBuffer.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\MessageBuffer.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\Polyfills.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\Polyfills.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\ServerSentEventsTransport.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\ServerSentEventsTransport.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\Stream.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\Stream.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\Subject.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\Subject.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\TextMessageFormat.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\TextMessageFormat.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\Utils.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\Utils.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\WebSocketTransport.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\WebSocketTransport.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\XhrHttpClient.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\XhrHttpClient.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\browser-index.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\browser-index.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\index.ts",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\index.ts"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\lib\\microsoft\\signalr\\src\\third-party-notices.txt",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\src\\third-party-notices.txt"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\about.jpg",
+      "PackagePath": "staticwebassets\\uploadedFiles\\about.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\b1.webp",
+      "PackagePath": "staticwebassets\\uploadedFiles\\b1.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\b2.webp",
+      "PackagePath": "staticwebassets\\uploadedFiles\\b2.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\b3.webp",
+      "PackagePath": "staticwebassets\\uploadedFiles\\b3.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\b4.webp",
+      "PackagePath": "staticwebassets\\uploadedFiles\\b4.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\b5.webp",
+      "PackagePath": "staticwebassets\\uploadedFiles\\b5.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\bouqets.webp",
+      "PackagePath": "staticwebassets\\uploadedFiles\\bouqets.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\f2.webp",
+      "PackagePath": "staticwebassets\\uploadedFiles\\f2.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\f4.webp",
+      "PackagePath": "staticwebassets\\uploadedFiles\\f4.webp"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\j1.jpg",
+      "PackagePath": "staticwebassets\\uploadedFiles\\j1.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\j2.jpg",
+      "PackagePath": "staticwebassets\\uploadedFiles\\j2.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\j4.jpg",
+      "PackagePath": "staticwebassets\\uploadedFiles\\j4.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\j6.jpg",
+      "PackagePath": "staticwebassets\\uploadedFiles\\j6.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\jewelery.jpg",
+      "PackagePath": "staticwebassets\\uploadedFiles\\jewelery.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\r1.jpg",
+      "PackagePath": "staticwebassets\\uploadedFiles\\r1.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\r2.jpg",
+      "PackagePath": "staticwebassets\\uploadedFiles\\r2.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\r3.jpg",
+      "PackagePath": "staticwebassets\\uploadedFiles\\r3.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\r4.jpg",
+      "PackagePath": "staticwebassets\\uploadedFiles\\r4.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\r5.jpg",
+      "PackagePath": "staticwebassets\\uploadedFiles\\r5.jpg"
+    },
+    {
+      "Id": "F:\\visual studio projects\\sunflower project\\sunflower\\sunflower\\wwwroot\\uploadedFiles\\rose.jpg",
+      "PackagePath": "staticwebassets\\uploadedFiles\\rose.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.sunflower.props",
+      "PackagePath": "build\\sunflower.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.sunflower.props",
+      "PackagePath": "buildMultiTargeting\\sunflower.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.sunflower.props",
+      "PackagePath": "buildTransitive\\sunflower.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.sunflower.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,354 @@
+﻿/* Google Font */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Navbar Section */
+.navbar {
+    background-color: #333; /* Dark background */
+    padding: 10px 0;
+}
+
+.navbar-brand {
+    font-size: 1.8rem;
+    font-weight: 600;
+}
+
+.navbar-nav .nav-link {
+    color: white;
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+
+    .navbar-nav .nav-link:hover {
+        color: #ff69b4;
+    }
+button {
+    outline: none;
+    border: none;
+    box-shadow: none;
+    background-clip: padding-box;
+    cursor: pointer; /* Optional: for better UX */
+}
+/* CSS */
+.btn-outline-light {
+    color: white;
+    border: 2px solid transparent; /* Changed to transparent */
+}
+
+    .btn-outline-light:hover {
+        color: #ff69b4;
+        border-color: #ff69b4; /* Optional if you want border color change on hover */
+    }
+
+.btn-light {
+    background-color: #ff69b4;
+    color: white;
+    border: none; /* Remove border for btn-light */
+}
+
+    .btn-light:hover {
+        background-color: #ff1493;
+    }
+
+
+/* Header Section */
+.header-section {
+    background: url('/images/s5.jpg') center center/cover no-repeat;
+    height: 70vh;
+    color: #ff1493;
+    position: relative;
+    padding-top: 20px;
+    margin-top: 30px; /* Space between navbar and hero section */
+}
+
+/* BloomHaven Branding */
+.brand-name {
+    font-size: 4rem;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.5);
+    margin-left: 20px;
+}
+
+/* Hero Section */
+.hero-content {
+    margin-top: 100px;
+    padding-left: 20px;
+}
+
+.hero-title {
+    font-size: 3rem;
+    font-weight: 600;
+    margin-bottom: 10px;
+    padding-top: 60px;
+}
+
+.hero-subtitle {
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin-bottom: 30px;
+    color: darkgreen;
+}
+
+.hero-btn {
+    padding: 10px 30px;
+    font-size: 1.2rem;
+    font-weight: 500;
+    background-color: #ff69b4;
+    border: none;
+    border-radius: 50px;
+    color: white;
+}
+
+    .hero-btn:hover {
+        background-color: #ff1493;
+    }
+
+/* Footer Section */
+.footer-section {
+    background-color: #f8f9fa;
+    color: #333;
+    font-size: 0.9rem;
+}
+
+/* Sequential Letter-by-Letter Animation for Hero Title */
+.letter-animation span {
+    display: inline-block;
+    opacity: 0;
+    animation: fadeIn 0.5s forwards;
+}
+/*
+.add-to-cart {
+    display: none;
+}
+
+.card:hover .add-to-cart {
+    display: block;
+} 
+*/
+@keyframes fadeIn {
+    to {
+        opacity: 1;
+    }
+}
+/* Fall Collection Section */
+.fall-collection {
+    background-color: #fff;
+}
+
+    .fall-collection h2 {
+        font-size: 2.5rem;
+        font-weight: 600;
+        color: #333;
+        font-family: monospace;
+    }
+
+/* Card Customization */
+.row {
+    margin-bottom: 30px; /* Adds space between the two rows */
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border: none;
+    transition: transform 0.2s ease;
+}
+
+    .card:hover {
+        transform: scale(1.05);
+    }
+
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+}
+
+.centered-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    text-align: center;
+    padding-top: -90px;
+    background-color: #f9f9f9;
+}
+
+.content {
+    max-width: 800px;
+}
+
+.a {
+    background-color: white;
+}
+
+.para {
+    margin-left: 20px;
+    text-align: center;
+    padding: 20px;
+    width: 50%; /* Limit the width of the rectangle */
+    border-radius: 20px;
+    /* Adjust opacity as needed */
+}
+
+.contact_section {
+    padding: 50px 0;
+    background-color: #f8f9fa;
+}
+
+    .contact_section .container {
+        padding: 0;
+    }
+
+    .contact_section .heading_container {
+        text-align: center;
+        margin-bottom: 30px;
+    }
+
+        .contact_section .heading_container h2 {
+            font-size: 36px;
+            font-weight: 700;
+            color: #333;
+        }
+
+    .contact_section form {
+        background-color: #fff;
+        padding: 30px;
+        border-radius: 10px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .contact_section input[type="text"],
+    .contact_section input[type="email"] {
+        width: 100%;
+        padding: 15px;
+        margin-bottom: 20px;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        transition: border-color 0.3s ease-in-out;
+    }
+
+        .contact_section input[type="text"]:focus,
+        .contact_section input[type="email"]:focus {
+            outline: none;
+            border-color: #007bff;
+        }
+
+    .contact_section .message-box {
+        height: 150px;
+    }
+
+    .contact_section button {
+        width: 100%;
+        padding: 15px;
+        border: none;
+        background-color: rgba(255, 20, 145, 0.356);
+        color: #fff;
+        font-size: 18px;
+        font-weight: 600;
+        text-transform: uppercase;
+        border-radius: 5px;
+        cursor: pointer;
+        transition: background-color 0.3s ease-in-out;
+    }
+
+        .contact_section button:hover {
+            background-color: rgba(255, 20, 145, 0.356);
+        }
+
+.image-row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap; /* To make the layout responsive */
+    padding: 10px 20px; /* Equal padding on the left and right for space */
+}
+
+    .image-row img {
+        width: 19%; /* Each image takes 19% of the row to make space for 5 images */
+        margin-bottom: 10px;
+        border-radius: 8px;
+        transition: transform 0.2s;
+    }
+
+        .image-row img:hover {
+            transform: scale(1.05);
+        }
+
+.letter-animation span:nth-child(1) {
+    animation-delay: 0s;
+}
+
+.letter-animation span:nth-child(2) {
+    animation-delay: 1s;
+}
+
+.letter-animation span:nth-child(3) {
+    animation-delay: 2s;
+}
+
+.letter-animation span:nth-child(4) {
+    animation-delay: 3s;
+}
+
+.letter-animation span:nth-child(5) {
+    animation-delay: 4s;
+}
+
+.letter-animation span:nth-child(6) {
+    animation-delay: 5s;
+}
+
+.letter-animation span:nth-child(7) {
+    animation-delay: 6s;
+}
+
+.letter-animation span:nth-child(8) {
+    animation-delay: 7s;
+}
+
+.letter-animation span:nth-child(9) {
+    animation-delay: 8s;
+}
+
+.letter-animation span:nth-child(10) {
+    animation-delay: 9s;
+}
+
+.letter-animation span:nth-child(11) {
+    animation-delay: 10s;
+}
+
+.letter-animation span:nth-child(12) {
+    animation-delay: 11s;
+}
+
+.letter-animation span:nth-child(13) {
+    animation-delay: 12s;
+}
+
+.letter-animation span:nth-child(14) {
+    animation-delay: 13s;
+}
+
+.letter-animation span:nth-child(15) {
+    animation-delay: 14s;
+}
+
+.letter-animation span:nth-child(16) {
+    animation-delay: 15s;
+}
+
+.letter-animation span:nth-child(17) {
+    animation-delay: 16s;
+}
+
+.letter-animation span:nth-child(18) {
+    animation-delay: 17s;
+}
+
+.letter-animation span:nth-child(19) {
+    animation-delay: 18s;
+}
+/* Continue as needed */

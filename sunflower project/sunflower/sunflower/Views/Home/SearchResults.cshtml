@@ -1,0 +1,95 @@
+﻿@* @model IEnumerable<sunflower.Models.Products>
+
+<div class="row">
+    <h1>Search Results</h1>
+    <div id="productContainer" class="row">
+        @if (!Model.Any())
+        {
+            <p>No products found.</p>
+        }
+        else
+        {
+            @foreach (var product in Model)
+            {
+                <div class="col-12 col-md-3 col-lg-3 mb-4">
+                    <div class="card">
+                        <img src="/uploadedfiles/@product.PathOfImage" class="card-img-top" alt="@product.Name">
+                        <div class="card-body">
+                            <h5 class="card-title">@product.Name</h5>
+                            <a href="#" class="btn btn-success">@product.Price</a>
+                            <div style="position: absolute; bottom: 10px; right: 15px; width: 40px; height: 40px; background-color: #FFBE33; border-radius: 50%; display: flex; justify-content: center; align-items: center;">
+                                <i class="fas fa-shopping-cart" style="color: white; font-size: 23px;"></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+    </div>
+</div>*@
+
+
+@model IEnumerable<sunflower.Models.Products>
+
+<div class="row">
+    
+</div>
+
+<!-- jQuery script (ensure the path is correct) -->
+<script src="~/js/jquery.min.js"></script>
+
+<!-- AJAX and JavaScript -->
+<script>
+    $(document).ready(function () {
+        $('#productSearch').click(function () {
+
+
+
+            console.log("Search button clicked. Search term: ");  // Debugging
+            var searchTerm = $('#txtData').val();  // Get the search term
+
+            console.log("Search button clicked. Search term: " + searchTerm);  // Debugging
+
+            $.ajax({
+                url: "/Home/SearchResults",
+                type: "GET",
+                data: { Name: searchTerm },  // Pass search term to the backend
+                success: function (response) {
+                    console.log("Raw response: ", response);  // Debugging
+                    let products = Array.isArray(response) ? response : [];
+
+                    if (products.length === 0) {
+                        $("#SearchResult").html("<div class='alert alert-warning'>No products found.</div>");
+                        return;
+                    }
+
+                    let html = "<div class='row top' style='margin-top:80px'> ";
+                    products.forEach(function (product) {
+                        let imagePath = `${product.PathOfImage}`;
+                        html += `
+                                <div class="col-12 col-md-4 mb-2">
+                                    <div class="card">
+                                        <img src="${imagePath}" class="scale-with-grid wp-post-image img-fluid" alt="${product.Name}" loading="lazy">
+                                        <div class="card-body">
+                                            <h5 class="card-title">${product.Name}</h5>
+                                            <a href="#" class="btn btn-success">${product.Price}</a>
+                                            <div style="position: absolute; bottom: 10px; right: 15px; width: 40px; height: 40px; background-color: #FFBE33; border-radius: 50%; display: flex; justify-content: center; align-items: center;">
+                                                <i class="fas fa-shopping-cart" style="color: white; font-size: 23px;"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>`;
+                    });
+                    html += "</div>";
+                    $("#SearchResult").html(html);
+                },
+                error: function (xhr, status, error) {
+                    console.log("XHR: ", xhr);   // Debugging
+                    console.log("Status: ", status);   // Debugging
+                    console.log("Error: ", error);   // Debugging
+                    $("#SearchResult").html("<div class='alert alert-danger'>Error: " + error + "</div>");
+                }
+            });
+        });
+    });
+</script>
